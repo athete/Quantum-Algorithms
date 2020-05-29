@@ -1,3 +1,3 @@
-# Quantum-Machine-Learning
+# Quantum-Optimisation-Algorithms
 
-This repository contains the implementation of Quantum machine learning algorithms in Python 3 and IBM's Qiskit Framework
+This repository contains the implementation of quantum machine optimisation algorithms in Python 3 and IBM's Qiskit Framework
